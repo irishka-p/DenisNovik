@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 100%;
+  font: inherit;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+a {
+  text-decoration: none;
+}
+li {
+  vertical-align: baseline; 
+  text-decoration: none;
+  padding-right: 40px;
+  display: inline;
+  width: 10em;
+}
+nav,
+div,
+footer {
+  text-align: center;
+}
+.aboutme {
+  background-color: rgb(247, 244, 244);
+  padding: 3em;
+}
+.border {
+  border-bottom: 2px solid;
+  margin-right: 20em;
+  margin-left: 20em;
+}
+.skills {
+  display: inline-block;
+  margin-left: 2em;
+}
+.header {
+  padding-left: 10em;
+}
+.img {
+  width: 4em;
+}
+
+.button {
+  background: #000;
+  border-radius: 2em;
+  color: #fff;
+  padding: 8px;
+}
